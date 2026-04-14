@@ -22,3 +22,11 @@ Instructor-defined team constraints
 Deterministic team optimization engine
 Explainable team assignment summaries
 Async job processing for match runs
+
+Current API Progress
+- Backend API starter created
+- TeamMatch generate teams endpoint added
+- Input validation module added
+- Team scoring module added
+- Team explanation module added
+- API test script added
