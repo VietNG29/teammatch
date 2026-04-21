@@ -30,3 +30,10 @@ Current API Progress
 - Team scoring module added
 - Team explanation module added
 - API test script added
+
+## Current Progress
+- Built FastAPI backend
+- Added Generate Teams API
+- Added validation, metrics, and explanation helpers
+- Added API test script
+- Successfully tested /api/generate-teams
