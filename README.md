@@ -31,9 +31,14 @@ Current API Progress
 - Team explanation module added
 - API test script added
 
-## Current Progress
+ Current Progress
 - Built FastAPI backend
 - Added Generate Teams API
 - Added validation, metrics, and explanation helpers
 - Added API test script
 - Successfully tested /api/generate-teams
+
+ Frontend Integration
+- Built a simple UI to interact with the API
+- Users can input student data and generate teams
+- Results are displayed dynamically
