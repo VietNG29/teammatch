@@ -42,3 +42,21 @@ Current API Progress
 - Built a simple UI to interact with the API
 - Users can input student data and generate teams
 - Results are displayed dynamically
+
+ API (Backend)
+- Endpoint: POST /api/generate-teams
+- Generates balanced teams based on student skills
+
+ Frontend
+- Simple UI in /frontend/index.html
+- Users can input data and generate teams
+
+ How to Run
+
+1. Start backend:
+   python -m uvicorn app.main:app --reload
+
+2. Open frontend:
+   open frontend/index.html
+
+3. Click "Generate Teams"
