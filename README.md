@@ -60,3 +60,10 @@ Current API Progress
    open frontend/index.html
 
 3. Click "Generate Teams"
+
+Update (Today)
+
+- Tested cloud API deployment on Azure
+- Verified /api/generate-teams endpoint is working
+- Connected frontend UI with backend API
+- Confirmed JSON request/response functionality
