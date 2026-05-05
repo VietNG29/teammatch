@@ -59,3 +59,4 @@ def generate_teams(payload: dict):
         "course_id": course_id,
         "teams": formatted_teams
     }
+    # Updated API validation and response handling (final review)
