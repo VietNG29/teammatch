@@ -67,3 +67,9 @@ Update (Today)
 - Verified /api/generate-teams endpoint is working
 - Connected frontend UI with backend API
 - Confirmed JSON request/response functionality
+
+## Ethics, Legal, and Security Pages
+
+- [Ethical Issues](Ethical_Issues.md)
+- [Legal Issues](Legal_Issues.md)
+- [Security Issues](Security_Issues.md)
